@@ -15,4 +15,29 @@ Target case: [Downtown Needle Exchange](https://www.google.com/maps/place/Downto
 
 ### Solutions to Provide:
 Case worker encounters things outside of their medical expertise - where can they direct the client?
+1. Create a working file for end patient to bring from case worker to doctor and back
+- No identifying features
+- Symptoms, etc, allow writing down information that the end patient may not know how to utilize
+Form that is filled out with help of AI bot that can be emailed to patient.
+
+Can the bot help compile a document?
+What format is the desired outcome? PDF, txt, paper, etc.
+
+2. Case worker helps patient prepare for doctor appointment by pulling important information that the end patient may not know what to share
+
+3. Patient takes notes file to doctor's office for medical use
+
+4. Case worker has ability to find more information about diagnosis - would need information from Doctor 
+5. Follow up form for concerns from patient
+
+## Concerns
+- HIPAA
+- Security
+- Understanding medical concerns - what the acronym means, and what the diagnoses means for life changes
+- Increase Patient's understanding of medical diagnoses
+
+
+## Next Steps:
+- Identify MVP - Step 1
+- Find connection between case worker and doctor. Are case workers able to communicate directly with a case's doctor?
 
