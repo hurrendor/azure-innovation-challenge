@@ -20,9 +20,6 @@ Case worker encounters things outside of their medical expertise - where can the
 - Symptoms, etc, allow writing down information that the end patient may not know how to utilize
 Form that is filled out with help of AI bot that can be emailed to patient.
 
-Can the bot help compile a document?
-What format is the desired outcome? PDF, txt, paper, etc.
-
 2. Case worker helps patient prepare for doctor appointment by pulling important information that the end patient may not know what to share
 
 3. Patient takes notes file to doctor's office for medical use
@@ -39,5 +36,9 @@ What format is the desired outcome? PDF, txt, paper, etc.
 
 ## Next Steps:
 - Identify MVP - Step 1
+- Flush out step 1 
+    - what fields do we need?
+    - Can the bot help compile a document?
+    - What format is the desired outcome? PDF, txt, paper, etc.
 - Find connection between case worker and doctor. Are case workers able to communicate directly with a case's doctor?
 
